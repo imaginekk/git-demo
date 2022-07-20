@@ -18,4 +18,4 @@ hello imagaine! hello git!
 hello imagaine! hello git!
 hello imagaine! hello git!
 hello imagaine! hello git! master test
-hello imagaine! hello git!
+hello imagaine! hello git! hot-fix test
